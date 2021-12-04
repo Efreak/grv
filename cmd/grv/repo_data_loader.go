@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	slice "github.com/bradfitz/slice"
 	git "gopkg.in/libgit2/git2go.v27"
 )

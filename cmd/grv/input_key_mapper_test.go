@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	gc "github.com/rgburke/goncurses"
 	"github.com/stretchr/testify/mock"
 )

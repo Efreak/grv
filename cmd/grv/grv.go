@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	fs "github.com/rjeczalik/notify"
 )
 

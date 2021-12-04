@@ -1,5 +1,5 @@
 [submodule "cmd/grv/vendor/github.com/Sirupsen/logrus"]
-	path = cmd/grv/vendor/github.com/Sirupsen/logrus
+	path = cmd/grv/vendor/github.com/sirupsen/logrus
 	url = https://github.com/Sirupsen/logrus
 [submodule "cmd/grv/vendor/github.com/bradfitz/slice"]
 	path = cmd/grv/vendor/github.com/bradfitz/slice

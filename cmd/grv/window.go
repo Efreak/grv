@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"unicode"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	rw "github.com/mattn/go-runewidth"
 	gc "github.com/rgburke/goncurses"
 )

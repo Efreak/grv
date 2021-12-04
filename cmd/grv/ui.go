@@ -41,7 +41,7 @@ import (
 	"time"
 	"unsafe"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	gc "github.com/rgburke/goncurses"
 )
 
